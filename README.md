@@ -1,7 +1,7 @@
 # Accessible
 Dive deeper into your iPhone; Extract Protected System Files, Launch Hidden Applications, and More. iOS 17.0 - iOS 18.3.1. 
 <p align="left">
-  <strong><a href="https://github.com/skadz108/Octopus/releases">Download</a></strong>
+  <strong><a href="https://github.com/lunginspector/Accessible/releases">Download</a></strong>
   •
   <strong><a href="https://discord.gg/nocturna-team-1144047674614616135">Discord Server</a></strong>
 </p>
