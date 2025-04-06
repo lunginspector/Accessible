@@ -3,7 +3,7 @@ Dive deeper into your iPhone; Extract Protected System Files, Launch Hidden Appl
 <p align="left">
   <strong><a href="https://github.com/lunginspector/Accessible/releases">Download</a></strong>
   •
-  <strong><a href="https://discord.gg/nocturna-team-1144047674614616135">Discord Server</a></strong>
+  <strong><a href="https://discord.gg/XPj66zZ4gT">Discord Server</a></strong>
 </p>
 
 ### Browse Files
