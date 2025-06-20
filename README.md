@@ -1,5 +1,5 @@
 # Accessible
-A jailed filesystem viewer & extractor for iOS 15.0 - iOS 18.3.1. Made by lunginspector for [jailbreak.party.](https://github.com/jailbreakdotparty)
+A jailed filesystem viewer & extractor for iOS 15.0 - iOS 18.3.2. Made by lunginspector for [jailbreak.party.](https://github.com/jailbreakdotparty)
 
 [Release Tab](https://github.com/lunginspector/Accessible/releases) • [Support Server](https://discord.gg/XPj66zZ4gT)
 
